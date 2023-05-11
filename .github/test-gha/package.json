@@ -7,7 +7,7 @@
   },
   "author": "k@ndk.name",
   "dependencies": {
-    "@actions/core": "~1.9.1"
+    "@actions/core": "^1.9.1"
   },
   "devDependencies": {
     "@tsconfig/node16": "^1.0.3",
