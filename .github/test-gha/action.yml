@@ -1,0 +1,10 @@
+name: Test GHA
+description: Test GHA
+
+outputs:
+  number:
+    description: a test number output
+
+runs:
+  using: node16
+  main: dist/index.js
